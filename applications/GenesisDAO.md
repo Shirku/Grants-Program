@@ -17,7 +17,7 @@ interface that protocols on other chain-ecosystems can utilize by tapping into i
 
 Genesis DAO is among this new wave of emerging platforms and provides DAOs as a Service. 
 
-Having this in the polkadot ecosystem is not only a huge benefit for existing parachains and protocols, itll be a competitive advantage for
+Having this in the polkadot ecosystem is not only a huge benefit for existing parachains and protocols, it'll be a competitive advantage for
 the polkadot ecosystem as one of the first questions projects have to face nowadays is: Where to launch the DAO? On Genesis DAO.
 
 ### Abstract
